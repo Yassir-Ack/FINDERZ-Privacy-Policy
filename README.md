@@ -4,6 +4,8 @@ PREAMBULE
 
 Les présentes Conditions générales d’utilisation sont conclues entre la société MKLF CORP, société par actions simplifiée au capital social de 1.000,00 €, dont le siège social est situé au 2 Avenue du Parc 31140 Aucamville, immatriculée au Registre du Commerce et des Sociétés de Toulouse sous le numéro 913 343 216, représentée par Monsieur Florian LEFIN agissant et ayant les pouvoirs nécessaires en tant que président (« Nous », « FINDERZ ») et Vous (« L’Utilisateur »).
 
+En utilisant notre service, vous acceptez les termes de notre contrat d'utilisation. Ce contrat stipule clairement qu'il n'y a pas de tolérance pour un contenu ou un comportement inapproprié. Tout manquement à ces termes peut entraîner la suspension ou la résiliation de votre compte.
+
 L’Application FINDERZ est la propriété de la société MKLF CORP.
 
 La société MKLF CORP et l’Utilisateur sont ci-après désignés conjointement les Parties et chacun séparément une Partie.
